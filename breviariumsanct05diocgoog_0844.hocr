@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumsanct05diocgoog/breviariumsanct05diocgoog_0844.png"; bbox 0 0 2350 4892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 516 2138 3474">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 516 2138 3474">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 516 2138 3474; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 236 516 2138 3474; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 415 3486 1789 3630">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 415 3486 1789 3628">
+     <span class='ocr_line' id='line_1_2' title="bbox 415 3486 1789 3549; baseline -0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 415 3487 450 3548; x_wconf 74' lang='grc' dir='ltr'>ὲ</span> <span class='ocrx_word' id='word_1_3' title='bbox 513 3486 728 3549; x_wconf 68' lang='lat' dir='ltr'>dextris</span> <span class='ocrx_word' id='word_1_4' title='bbox 808 3508 919 3548; x_wconf 82' lang='lat' dir='ltr'><strong><em>me·</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 953 3489 1019 3546; x_wconf 74' lang='lat' dir='ltr'><strong><em>is·</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1202 3505 1237 3545; x_wconf 72' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_7' title='bbox 1308 3507 1348 3545; x_wconf 85' lang='lat' dir='ltr'>u</span> <span class='ocrx_word' id='word_1_8' title='bbox 1419 3505 1459 3544; x_wconf 90' lang='lat' dir='ltr'>o</span> <span class='ocrx_word' id='word_1_9' title='bbox 1522 3507 1559 3545; x_wconf 90' lang='lat' dir='ltr'><strong>u</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1622 3506 1657 3545; x_wconf 78' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_11' title='bbox 1732 3505 1789 3547; x_wconf 82' lang='lat' dir='ltr'><strong><em>e.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 838 3564 1507 3630; baseline -0.004 -2"><span class='ocrx_word' id='word_1_12' title='bbox 838 3568 1140 3630; x_wconf 75' lang='lat' dir='ltr'><strong><em>Intonau&#39;o</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1165 3564 1507 3627; x_wconf 72' lang='lat' dir='ltr'><strong><em>canticorum</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 322 3614 2032 3835">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 322 3614 2032 3835">
+     <span class='ocr_line' id='line_1_4' title="bbox 322 3614 2032 3835; baseline 0 -175"><span class='ocrx_word' id='word_1_14' title='bbox 322 3614 2032 3835; x_wconf 95' lang='lat' dir='ltr'><strong><em>  </em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1507 3614 2032 3660; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 319 3840 2025 4216">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 319 3840 2025 4216">
+     <span class='ocr_line' id='line_1_5' title="bbox 319 3840 2025 4216; baseline 0 676"><span class='ocrx_word' id='word_1_16' title='bbox 319 3840 2025 4216; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
